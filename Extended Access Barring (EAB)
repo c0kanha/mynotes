@@ -1,0 +1,15 @@
+Extended Access Barring (EAB) is a feature in telecommunication networks, particularly in LTE (Long-Term Evolution) networks, that allows network operators to manage and control network access during periods of congestion or emergencies. It is designed to prioritize certain types of traffic or user groups, ensuring that essential communication services can continue to operate when the network is overloaded.
+
+Key aspects of Extended Access Barring include:
+
+Access Restriction: EAB restricts access to the network for certain devices or user groups, such as non-critical devices (e.g., IoT devices), while giving priority to emergency services or other critical users like first responders.
+
+Congestion Management: During network congestion or high traffic periods, EAB helps manage the load by selectively barring certain devices from accessing the network, reducing the risk of network failure.
+
+Dynamic Control: Operators can dynamically adjust the access barring settings depending on the current network conditions, such as during emergencies or large public events.
+
+Barring Categories: Devices can be categorized based on their subscription, type of service, or even location, and access can be restricted for non-priority devices while essential communications remain unaffected.
+
+Use Cases: EAB is particularly useful in handling machine-type communications (MTC) or Internet of Things (IoT) devices, which can generate significant traffic but may not require immediate or high-priority access during network congestion.
+
+In summary, Extended Access Barring is a network management tool used by telecom operators to ensure service quality and availability during high-demand periods, particularly by limiting access for non-essential users.
